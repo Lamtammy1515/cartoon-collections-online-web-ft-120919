@@ -2,8 +2,12 @@
 enddwarves = [Dopey Grumpy Bashful]
 
 def roll_call_dwarves(dwarves)
-   puts roll_call_dwarves(dwarves)
-end
+   index = 0
+    while index < roll_call_dwarves.length
+         
+     
+     index += 1 
+ end
 
 def summon_captain_planet# code an argument here
   # Your code here
