@@ -1,6 +1,4 @@
 
-enddwarves = ["Dopey", "Grumpy", "Bashful"]
-
 def roll_call_dwarves(dwarves)
    index = 0
     while index < roll_call_dwarves.length
