@@ -1,5 +1,5 @@
 
-enddwarves = [Dopey Grumpy Bashful]
+enddwarves = ["Dopey", "Grumpy", "Bashful"]
 
 def roll_call_dwarves(dwarves)
    index = 0
